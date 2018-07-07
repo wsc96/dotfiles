@@ -1,0 +1,7 @@
+accounts.firefox.com:HSTS	0	17719	1546547189839,1,1
+self-repair.mozilla.org:HPKP	0	17719	1531081592981,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
+accounts.firefox.com:HPKP	0	17719	1536179189840,1,1,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=
+shavar.services.mozilla.com:HSTS	0	17719	1562531189739,1,1
+self-repair.mozilla.org:HSTS	0	17719	1562531192980,1,1
+mozilla.org:HSTS	0	17719	1562531189039,1,0
+aus5.mozilla.org:HSTS	0	17719	1562531254939,1,0
