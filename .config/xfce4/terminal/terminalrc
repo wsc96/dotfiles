@@ -27,4 +27,5 @@ MiscNewTabAdjacent=FALSE
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
 BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
 FontUseSystem=TRUE
+BackgroundDarkness=0.750000
 
