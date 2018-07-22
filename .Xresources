@@ -4,3 +4,4 @@ URxvt*foreground: white
 URxvt*background: black
 URxvt*transparent: true
 URxvt*shading: 30
+URxvt*font: xft:NotoMono-Regular:size=4.5
