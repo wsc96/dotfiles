@@ -3,5 +3,5 @@ URxvt*saveLines: 12000
 URxvt*foreground: white
 URxvt*background: black
 URxvt*transparent: true
-URxvt*shading: 10
-URxvt*font: xft:NotoMono-Regular:size=5
+URxvt*shading: 9
+URxvt*font: xft:NotoMono-Regular:size=8
