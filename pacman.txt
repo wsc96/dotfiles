@@ -1,0 +1,31 @@
+Full system update and upgrade:
+pacman -Syu
+
+Search for a package in remote repositories by name:
+pacman -Ss <package_name>
+
+Search for a package already installed:
+pacman -Qs <package_name>
+
+Search for a package that contains a specific file:
+pacman -Fs <filename>
+
+Remove all cached packages no longer installed:
+pacman -Sc
+
+List all explicity installed packages:
+pacman -Qe
+
+List all orphan packages no longer required:
+pacman -Qdt
+
+To retrieve a list of the files installed by a package:
+pacman -Ql <package_name>
+
+To remove a single package, leaving all of its dependencies installed:
+pacman -R <package_name>
+
+To remove a package and its dependencies which are not required by any other installed package:
+pacman -Rs <package_name>
+
+
