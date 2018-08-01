@@ -18,7 +18,8 @@ set $mod Mod4
 #font Hack 14
 #font xft:NotoMono-Regular:size=9
 #font xft:NotoMono-Regular:size=12
-font pango:Hack 10
+#font pango:Hack 10
+font xft:Liberation Mono:pixelsize=10:antialias=true:hinting=true
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).

@@ -4,7 +4,9 @@ URxvt*foreground: white
 URxvt*background: black
 URxvt*transparent: true
 URxvt*shading: 9
-URxvt.font:	xft:Hack:pixelsize=12
-URxvt.boldFont:	xft:Hack:bold:pixelsize=12
-Urxvt.italicFont:	xft:Hack:italic:pixelsize=12
-Urxvt.boldItalicFont:	xft:Hack:bold:italic:pixelsize=12
+#URxvt.font:	xft:Hack:pixelsize=14
+#URxvt.boldFont:	xft:Hack:bold:pixelsize=14
+#Urxvt.italicFont:	xft:Hack:italic:pixelsize=14
+#Urxvt.boldItalicFont:	xft:Hack:bold:italic:pixelsize=14
+URxvt*font: xft:Liberation Mono:pixelsize=12:antialias=true:hinting=true
+URxvt*boldFont: xft:Liberation Mono:bold:pixelsize=12:antialias=true:hinting=true
